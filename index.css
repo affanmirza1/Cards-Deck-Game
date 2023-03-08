@@ -10,6 +10,9 @@ body {
 h1 {
     color: goldenrod;
 }
+h3{
+    color: goldenrod;  
+}
 
 #message-el {
     font-style: italic;
